@@ -13,16 +13,16 @@ Systems Engineer with experience designing, modernizing, securing, and supportin
 ### OSC Technical Solutions
 #### May 2025 - October 2026
 
-As the primary Subject Matter Expert for Kiteworks, WS_FTP, and Box.com, I design, administer, and modernize secure enterprise file transfer platforms supporting mission-critical data exchanges between internal systems and external partners. I ensure the reliability, security, and compliance of the organization's managed file transfer infrastructure while supporting a centralized software distribution environment serving more than 675 enterprise applications. I work closely with infrastructure, cybersecurity, and application teams to improve operational efficiency, reduce risk, and drive the organization's transition to modern secure collaboration platforms.
+As the primary Subject Matter Expert for Kiteworks, WS_FTP, and Box.com, I designed, administered, and modernized secure enterprise file transfer platforms supporting mission-critical data exchanges between internal systems and external partners. I ensured the reliability, security, and compliance of the organization's managed file transfer infrastructure while supporting a centralized software distribution environment serving more than 675 enterprise applications. I worked closely with infrastructure, cybersecurity, and application teams to improve operational efficiency, reduce risk, and drive the organization's transition to modern secure collaboration platforms.
 
 **Core Responsibilities & Technical Leadership:**
 
-- **Enterprise File Transfer:** Architect, administer, and optimize WS_FTP Pro environments across Windows and Linux platforms, including secure user provisioning, SSL certificate lifecycle management, firewall integration, and SFTP/FTPS services.
-- **Platform Modernization:** Partner with cybersecurity and infrastructure teams to migrate legacy managed file transfer workflows to Kiteworks, redesigning secure data exchange processes and supporting enterprise adoption.
-- **Enterprise Content Management:** Administer the organization's Box.com environment, managing folder permissions, Single Sign-On (SSO) integration, user access, and data retention policies to ensure secure collaboration.
-- **Software Distribution:** Support the enterprise software distribution platform by packaging and deploying applications through Microsoft System Center Configuration Manager (SCCM), ensuring compatibility, compliance, and reliable delivery.
-- **Incident Response & Troubleshooting:** Diagnose and resolve complex file transfer, authentication, protocol, and network issues by analyzing FTP, SFTP, HTTP/S, firewall, and security configurations to maintain service availability.
-- **Automation & Process Improvement:** Develop PowerShell and Python automation to streamline account provisioning, monitoring, and operational workflows, improving efficiency while reducing manual effort and configuration inconsistencies.
+- **Enterprise File Transfer:** Architected, administered, and optimized WS_FTP Pro environments across Windows and Linux platforms, including secure user provisioning, SSL certificate lifecycle management, firewall integration, and SFTP/FTPS services.
+- **Platform Modernization:** Partnered with cybersecurity and infrastructure teams to migrate legacy managed file transfer workflows to Kiteworks, redesigning secure data exchange processes and supporting enterprise adoption.
+- **Enterprise Content Management:** Administered the organization's Box.com environment, managing folder permissions, Single Sign-On (SSO) integration, user access, and data retention policies to ensure secure collaboration.
+- **Software Distribution:** Supported the enterprise software distribution platform by packaging and deploying applications through Microsoft System Center Configuration Manager (SCCM), ensuring compatibility, compliance, and reliable delivery.
+- **Incident Response & Troubleshooting:** Diagnosed and resolved complex file transfer, authentication, protocol, and network issues by analyzing FTP, SFTP, HTTP/S, firewall, and security configurations to maintain service availability.
+- **Automation & Process Improvement:** Developed PowerShell and Python automation to streamline account provisioning, monitoring, and operational workflows, improving efficiency while reducing manual effort and configuration inconsistencies.
 
 ## Systems Engineer
 ### Tigunia
