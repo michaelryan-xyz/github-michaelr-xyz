@@ -11,7 +11,7 @@ Systems Engineer with experience designing, modernizing, securing, and supportin
 
 ## General IT Infrastructure Systems Administrator
 ### OSC Technical Solutions
-#### May 2025 - Present
+#### May 2025 - October 2026
 
 As the primary Subject Matter Expert for Kiteworks, WS_FTP, and Box.com, I design, administer, and modernize secure enterprise file transfer platforms supporting mission-critical data exchanges between internal systems and external partners. I ensure the reliability, security, and compliance of the organization's managed file transfer infrastructure while supporting a centralized software distribution environment serving more than 675 enterprise applications. I work closely with infrastructure, cybersecurity, and application teams to improve operational efficiency, reduce risk, and drive the organization's transition to modern secure collaboration platforms.
 
